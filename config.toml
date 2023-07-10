@@ -8,6 +8,7 @@ ignoreFiles = [
 ]
 summaryLength = 20
 enableGitInfo = true
+title = "Tactical Typos"
 
 [markup]
     [markup.tableOfContents]
