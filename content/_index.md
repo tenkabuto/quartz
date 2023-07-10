@@ -1,29 +1,40 @@
 ---
-title: 🪴 Quartz 3.3
+title: Homepage
 enableToc: false
 ---
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+Hello, this is the homepage of the website for Brandon Hall, a Christian, philosopher, and amateur economist.
 
-Testing to see if linking to [[content/notes/_index|the index page for the Notes section]] works at all.
+I am a philosopher that often uses the tools of economics, statistics, and technology for analysis and critique. I received a Bachelor of Arts degree in Economics from [California State University, Sacramento](https://www.csus.edu/econ/) in the Fall of 2018.
 
-1. Extremely fast natural-language [[notes/search]]
-2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]] and [[notes/callouts | Admonition-style callouts]]
-5. Support for both Markdown Links and Wikilinks
+Here, I try to refine my thinking about a variety of topics and collect content that I post elsewhere, but in a more reader-friendly and structured format.
 
-Check out some of the [amazing gardens that community members](notes/showcase.md) have published with Quartz or read about [why I made Quartz](notes/philosophy.md) to begin with.
+I recommend checking out the [[projects|Projects]] page.
 
-## Get Started
-> 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
+You can find me at the following places. Please reach out to me there.
 
-Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
+* Social Media (Personal): <https://tilde.zone/@bthall>
+* Social Media (Scholarly): <a rel="me" href="https://scholar.social/@bthall">https://scholar.social/@bthall</a>
+* Reddit: <https://www.reddit.com/user/meatspaceskeptic/>
+* Email: [brandon@tacticaltypos.net](mailto:brandon@tacticaltypos.net)
 
-If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
+## Big Recommend: Favorite Video Ever
+Below is one of my favorite videos ever, preserved so that I may share it with my favorite people, including you. But how can that be? We've never met! Indeed, we haven't, but wouldn't that be nice? "No, it wouldn't!", you might say. And you know, you might be right.
 
-### Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
+It's a lecture by Leo Buscaglia that delves into the nature of being human, all the weirdness and wonderfulness that being human entails, and how we can bond and get along better by recognizing that humanness in ourselves and each other and laughing about it, together.
 
+<iframe src="https://archive.org/embed/LeoBuscagliaTheArtOfBeingFullyHuman" width="100%" height="400px" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+## Current Events
+- See [[Call for Abstracts - Skateboarding and Philosophy book|this Call for Abstracts for submissions to a book about Skateboarding and Philosophy]]. Abstracts are due by August 7, 2023.
+
+---
+
+<div id="hcard-Brandon-Hall" class="vcard">
+  <img style="float:left; margin-right:4px" src="https://secure.gravatar.com/avatar/c47726a232801822ba08473b99c1e219?s=80" alt="photo of " class="photo"/>
+ <a class="url fn" href="http://tacticaltypos.net">Brandon Hall</a>
+ <div class="adr">
+  <span class="country-name">United States</span>
+ </div>
+<div><span class="category">Economics</span>, <span class="category">Philosophy</span>, <span class="category">Statistics</span></div>
+<p class="p-note">I am a philosopher that often uses the tools of economics, statistics, and technology for analysis and critique.</p></div>
