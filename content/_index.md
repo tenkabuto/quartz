@@ -9,7 +9,7 @@ I am a philosopher that often uses the tools of economics, statistics, and techn
 
 Here, I try to refine my thinking about a variety of topics and collect content that I post elsewhere, but in a more reader-friendly and structured format.
 
-I recommend checking out the [[projects|Projects]] page.
+I recommend checking out the [[projects/_index|Projects]] page.
 
 You can find me at the following places. Please reach out to me there.
 
