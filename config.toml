@@ -30,3 +30,10 @@ enableGitInfo = true
         publishDate = ["publishDate", "date"]
     [markup.goldmark.renderer]
         unsafe = true
+
+copyright = "2023 Brandon Hall All rights reserved"
+languageCode = "en-us"
+
+[author]
+	name = "Brandon Hall"
+	email = "brandon@tacticaltypos.net"
