@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "25569fbfd4e836f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0556befef610875",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0635be6e3edf6da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/notes/docker.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "250020405a8da83a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/notes/updating.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0a80ec4ff3731b65",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e34d4b1436dd13f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b83ed9af57126fb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2949a0c22a65cd0c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4896b1edb7986eae",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "29e0f6ecc49d42ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5953c7445d81253",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8dd9cfe1ecc86096",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/notes/docker.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "23787f46a458036d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/notes/docker.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5fb0afb648e92eae",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ff91c3cf176788f3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/notes/docker.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a0635be6e3edf6da",
+  "lastOpenFiles": [
+    "content/notes/_index.md",
+    "content/notes/updating.md",
+    "content/notes/config.md",
+    "content/notes/custom Domain.md",
+    "content/notes/docker.md",
+    "content/notes/editing.md",
+    "content/notes/hosting.md",
+    "content/notes/ignore notes.md",
+    "content/notes/obsidian.md",
+    "content/notes/philosophy.md",
+    "content/notes/preview changes.md",
+    "content/notes/search.md",
+    "content/notes/setup.md",
+    "content/notes/showcase.md",
+    "content/notes/CJK + Latex Support (测试).md",
+    "content/notes/callouts.md",
+    "content/_index.md"
+  ]
+}
