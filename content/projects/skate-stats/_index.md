@@ -4,12 +4,12 @@ title: Skateboarding Statistics
 
 Towards a way of recording, analyzing, and visualizing data about skateboarding trick attempts and a skateboarder's likelihood of landing a trick. Progression (or regression), visualized!
 
-# Current Status
+## Current Status
 Disorganized: Lots of disparate notes that need to be compiled and ironed out, some code and visuals
 
 Could likely benefit from compiling everything in one place and being more structured in how it's presented or different concerns are sufficiently separated out
 
-# History
+## History
 Originally I was interested in how you might be able to bet on and against yourself as a way of estimating the probability of doing a trick. (So the prior data came first.) I got this idea while reading *Bayesian Statistics the Fun Way*, which showed me how similar data can be used to estimate probabilities.
 
 I started to collect the Outcome data after I realized that I'd want to be able to check the accuracy of my bets against data that was kinda more real/less open to interpretation (especially as my understanding of this domain of statistics was so shaky).
@@ -18,7 +18,7 @@ I started to collect the Outcome data after I realized that I'd want to be able 
 
 One thing to remember when analyzing this data is always that the analyses pertain to the tricks that have been recorded. Not all tricks get recorded, and, so long as trick attempts aren't selectively recorded, that's OK.
 
-# Data Viz
+## Data Viz
 - Add a column for prior probability (treat blank odds as null), average this by Trick and/time periods, convert average to nearest 1/N and get the fraction for this - use the numerator and the denominator to get `a` and `b` for the beta dist from `a = numerator` and `b = denominator - numerator` - and plug those into the beta function to produce the posterior dist (we can aggregate the outcomes to make the `a` and `b` values)
 - A good reference for working with Beta dist in R; use the ggplot2 geom_density with the function dbeta to show perfect functions on a single time period (though you could facet on time periods and have it stack vertically) — for the ridge plots it will have to use rbeta, which randomly samples from the beta dist and generates a lumpy distribution unless you have a high sample rate https://www.causact.com/the-beta-distribution.html
 - A good general reference for the various beta functions: https://www.geeksforgeeks.org/compute-beta-distribution-in-r-programming-dbeta-pbeta-qbeta-and-rbeta-functions/
@@ -36,7 +36,7 @@ One thing to remember when analyzing this data is always that the analyses perta
 	- The second dist on each layer seems to be determined when you set an aesthetic property equal to the variable that you want to split out
 		- the dist data would need to be in the same x variable for all instances we'd want to break into separate dists; we just keep track of which one it is via another variable, like Political Party
 
-# Metadata
+## Metadata
 [[projects/skate-stats/_index|Skate Stats]]: trick modifiers like Fakie, Switch, and 360. Fakie and Switch are mutually exclusive, but Fakie and 360 are not. At the basic level, adding these modifiers can be like assigning qualities to a beer in Untappd.
 - People that are interested in what is essential to do this and to do it themselves.
 - Runs are a string of tricks. FS 5050, FS 180 out = FS 5050 followed by a FS 180 off of a grind object (ledge, rail, bench - categories of things that have a weight-bearing platform (bench or ledge) or do not have them (rail, chain)).
@@ -49,15 +49,15 @@ One thing to remember when analyzing this data is always that the analyses perta
 - [ ] Ridgeline plots
 
 
-# compared to other offerings
+## compared to other offerings
 The app for the Fitbit for Skateboards: competitive inclination
 
-# Possible features
+## Possible features
 - Bets (Success & Fail, which are the odds in favor)
 - Direct Probability estimates (instead of via Bets)
 - outcome
 
-# Research Directions
+## Research Directions
 Test whether Bets or Direct Probability (I no longer remember what I meant by this latter term; was it a relabelling of the first term, Bets, or something different?) surveys provide more accurate estimates of [[Trick Success Probability]].
 
 https://www.causact.com/the-beta-distribution.html

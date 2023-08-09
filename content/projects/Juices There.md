@@ -1,8 +1,12 @@
+---
+title: Juices There
+---
+
 A wildly inefficient but nonetheless fun and sometimes funny way to learn and practice Spanish.
 
 Use phonetics, rhyming, vocabulary, and creativity to play with the languages of English and Spanish.
 
-# Instructions
+## Instructions
 For the statements below, replace the **bolded** word with the Spanish version of the bolded word. Then read the corrected sentence to decipher the phrase, statement, etc. (The footnotes are there to help you if you get stuck.)
 
 ## Fully formed (could use polish)
@@ -58,7 +62,7 @@ Ojo [eye]! It sounds like you're surprised! Eye! Maybe like a pirate looking thr
 Serio (serious), Cerebro (brain) - brain teasers, cross-lingual
 
 
-# About
+## About
 Started this early in the morning of March 3rd, 2023 
 
 Manos menos - No, finger less
