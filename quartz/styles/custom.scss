@@ -1,3 +1,11 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+.tags {
+	flex-wrap: wrap;
+}
+
+li.section-li>.section {
+	grid-template-columns: 6em 3fr !important;
+}
