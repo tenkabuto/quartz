@@ -1,0 +1,2 @@
+## Interests and Education
+I am a philosopher that often uses the tools of economics, statistics, and technology for analysis and critique. I received a Bachelor of Arts degree in Economics from [California State University, Sacramento](https://www.csus.edu/econ/) in the Fall of 2018.
